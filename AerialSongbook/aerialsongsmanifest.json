@@ -29,7 +29,7 @@
 					"label": "Aerial Song Clippings (BL L.R.301. H.3, 060)",
 					"height": 6123,
 					"width": 7199,
-                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/225,/0/native.jpg",
+          "thumbnail": "https://ericayhayes.github.io/SSB/AerialSongbook/full/225,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
