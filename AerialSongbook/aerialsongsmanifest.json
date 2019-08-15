@@ -3,7 +3,7 @@
 	"@id": "http://82499882-05b9-4711-ae28-3b91dccecfe8",
 	"@type": "sc:Manifest",
 	"label": "Aerial Song Clippings (BL L.R.301. H.3, 060)",
-    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/225,/0/native.jpg",
+    "thumbnail": "https://ericayhayes.github.io/SSB/AerialSongbook/full/225,/0/native.jpg",
 	"description": [
 		{
 			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed\\nby Miss S.S. Banks. Bound in nine volumes] / Sarah Sophia Banks 1744-1818.",
