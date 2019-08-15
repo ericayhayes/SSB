@@ -1,9 +1,9 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://27f44663-4386-4a46-9fd8-e6c0267c787c",
+	"@id": "http://0db86ea3-4ec5-48a7-9699-3f92a62bade3",
 	"@type": "sc:Manifest",
 	"label": "Blanchard’s Observations and Piece of his Balloon (9r)",
-    "thumbnail": "https://ericayhayes.github.io/SSB/BlanchardsObservations/full/226,/0/native.jpg",
+	"thumbnail": "https://ericayhayes.github.io/SSB/BlanchardsObservations/full/226,/0/native.jpg",
 	"description": [
 		{
 			"@value": "Collection of clippings relating to aviation: a scrapbook, 1780-1850 Series 1, 139413. Huntington Library Aeronautica Collection: Prints and Ephemera, The Huntington Library, San Marino, California.",
@@ -14,7 +14,7 @@
 	"attribution": "Collection of clippings relating to aviation: a scrapbook, 1780-1850 Series 1, 139413. Huntington Library Aeronautica Collection: Prints and Ephemera, The Huntington Library, San Marino, California.",
 	"sequences": [
 		{
-			"@id": "http://0d604719-c13a-48c8-8f7b-3e8f48977fe0",
+			"@id": "http://34db8427-0762-46db-b340-d0c1320577b6",
 			"@type": "sc:Sequence",
 			"label": [
 				{
@@ -24,16 +24,16 @@
 			],
 			"canvases": [
 				{
-					"@id": "http://1bc70df2-5c45-4b6f-8858-cd941fcba7b1",
+					"@id": "http://73ba48b1-a28b-4dfe-be35-140d4b46dcc5",
 					"@type": "sc:Canvas",
 					"label": "Blanchard’s Observations and Piece of his Balloon (9r)",
 					"height": 4800,
 					"width": 3616,
-                    "thumbnail": "https://ericayhayes.github.io/SSB/BlanchardsObservations/full/226,/0/native.jpg",
+					"thumbnail": "https://ericayhayes.github.io/SSB/BlanchardsObservations/full/226,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://9c33643c-945d-473f-8041-2b8ca7985471",
+							"@id": "http://d44a059f-c14b-45bb-aff7-c15aba7c0823",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
@@ -42,13 +42,13 @@
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://ericayhayes.githubo.io/SSB/BlanchardsObservations",
+									"@id": "https://ericayhayes.github.io/SSB/BlanchardsObservations",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 4800,
 								"width": 3616
 							},
-							"on": "http://1bc70df2-5c45-4b6f-8858-cd941fcba7b1"
+							"on": "http://73ba48b1-a28b-4dfe-be35-140d4b46dcc5"
 						}
 					],
 					"related": ""
