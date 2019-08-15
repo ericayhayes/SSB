@@ -29,7 +29,7 @@
 					"label": "Aerial Song Clippings (BL L.R.301. H.3, 060)",
 					"height": 6123,
 					"width": 7199,
-          "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/225,/0/native.jpg",
+          "thumbnail": "https://ericayhayes.github.io/SSB/AerialSongbook/full/225,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -37,12 +37,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/full/0/default.jpg",
+								"@id": "https://ericayhayes.github.io/SSB/AerialSongbook/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook",
+									"@id": "https://ericayhayes.github.io/SSB/AerialSongbook",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 6123,
