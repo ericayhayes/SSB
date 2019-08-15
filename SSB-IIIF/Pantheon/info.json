@@ -1,0 +1,21 @@
+{
+  "@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json", 
+  "@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Pantheon", 
+  "formats": [
+    "jpg"
+  ], 
+  "height": 6425, 
+  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0", 
+  "qualities": [
+    "native"
+  ], 
+  "scale_factors": [
+    1, 
+    2, 
+    4, 
+    8
+  ], 
+  "tile_height": 512, 
+  "tile_width": 512, 
+  "width": 7498
+}

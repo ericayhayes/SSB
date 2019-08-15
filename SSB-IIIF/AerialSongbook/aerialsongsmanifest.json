@@ -1,0 +1,61 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://82499882-05b9-4711-ae28-3b91dccecfe8",
+	"@type": "sc:Manifest",
+	"label": "Aerial Song Clippings (BL L.R.301. H.3, 060)",
+    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/225,/0/native.jpg",
+	"description": [
+		{
+			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed\\nby Miss S.S. Banks. Bound in nine volumes] / Sarah Sophia Banks 1744-1818.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "By permission of the British Library General Reference Collection L.R. 301.h.3-11",
+	"sequences": [
+		{
+			"@id": "http://12d9d27b-521e-40c5-b59c-546bdf2ea134",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://384bd7d9-59ee-49c8-a0b1-8910a329d74e",
+					"@type": "sc:Canvas",
+					"label": "Aerial Song Clippings (BL L.R.301. H.3, 060)",
+					"height": 6123,
+					"width": 7199,
+                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/225,/0/native.jpg",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://48bf9877-0324-4f95-8075-73fd2982ed95",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/AerialSongbook",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
+								},
+								"height": 6123,
+								"width": 7199
+							},
+							"on": "http://384bd7d9-59ee-49c8-a0b1-8910a329d74e"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}

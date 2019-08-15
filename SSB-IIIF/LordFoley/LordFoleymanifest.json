@@ -1,0 +1,60 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://fcf85589-4a4f-4147-a756-f98c1384f041",
+	"@type": "sc:Manifest",
+	"label": "All on Fire or the Doctors disappointed, A View taken from Lord Foley’s Garden (BL L.R.301. H.3, 037r)\n",
+    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley/full/376,/0/native.jpg",
+	"description": [
+		{
+			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed by Miss S.S. Banks. Bound in nine volumes] Sarah Sophia Banks 1744-1818.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "By permission of the British Library General Reference Collection L.R. 301.h.3-11",
+	"sequences": [
+		{
+			"@id": "http://8292a1ea-4ad7-447c-ae99-8d107ce95bb0",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://5241b8a6-6234-4c03-8698-26f78a2f4f34",
+					"@type": "sc:Canvas",
+					"label": "All on Fire or the Doctors disappointed, A View taken from Lord Foley’s Garden (BL L.R.301. H.3, 037r)\n",
+					"height": 7218,
+					"width": 6008,
+                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley/full/376,/0/native.jpg",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://0800b4bb-21e2-4bb1-bac0-4913bac4b11e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
+								},
+								"height": 7218,
+								"width": 6008
+							},
+							"on": "http://5241b8a6-6234-4c03-8698-26f78a2f4f34"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

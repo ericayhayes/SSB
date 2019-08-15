@@ -1,0 +1,60 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://296aafff-44af-487d-9506-dc6cadbc4ec5",
+	"@type": "sc:Manifest",
+	"label": "Lunardi on the Thames (BL L.R.301. H.3, 036r)",
+    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi/full/225,/0/native.jpg",
+	"description": [
+		{
+			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed\nby Miss S.S. Banks. Bound in nine volumes] / Sarah Sophia Banks 1744-1818.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "By permission of the British Library General Reference Collection L.R. 301.h.3-11",
+	"sequences": [
+		{
+			"@id": "http://8ead02fa-566f-4f60-a5e9-9c1fe5259574",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://f0e470ee-1175-443e-8da8-e07b1076dd18",
+					"@type": "sc:Canvas",
+					"label": "Lunardi on the Thames (BL L.R.301. H.3, 036r)",
+					"height": 6246,
+					"width": 7213,
+                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi/full/225,/0/native.jpg",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://80035deb-447e-4668-9a9e-a23882e7673e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
+								},
+								"height": 6246,
+								"width": 7213
+							},
+							"on": "http://f0e470ee-1175-443e-8da8-e07b1076dd18"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}

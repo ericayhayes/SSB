@@ -1,0 +1,61 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://b264fdda-c5df-4d19-b9e8-5cafd7ab7a92",
+	"@type": "sc:Manifest",
+	"label": "Lunardi’s Downfall and “Grand Triumphal Entry” (BL L.R.301. h.3 , 035r)",
+    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall/full/393,/0/native.jpg",
+	"description": [
+		{
+			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed by Miss S.S. Banks. Bound in nine volumes] Sarah Sophia Banks 1744-1818.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "By permission of the British Library General Reference Collection L.R. 301.h.3-11",
+	"sequences": [
+		{
+			"@id": "http://2e54a11d-81d7-4d98-a94f-c562cb4b905c",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://ac9a81f3-9a5c-4703-a0b8-67b5e70fd7c1",
+					"@type": "sc:Canvas",
+					"label": "Lunardi’s Downfall and “Grand Triumphal Entry” (BL L.R.301. h.3 , 035r)",
+					"height": 7290,
+					"width": 6293,
+                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall/full/393,/0/native.jpg",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d8298db5-c722-4ed9-b69b-e6f31d2cfd6b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
+								},
+								"height": 7290,
+								"width": 6293
+							},
+							"on": "http://ac9a81f3-9a5c-4703-a0b8-67b5e70fd7c1"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}

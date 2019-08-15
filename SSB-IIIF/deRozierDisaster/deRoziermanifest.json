@@ -1,0 +1,60 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://a6d75889-aded-48c1-96eb-884f411021bf",
+	"@type": "sc:Manifest",
+	"label": "de Rozier’s Disaster and a Piece of his Balloon (139413, 15r)",
+    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster/full/228,/0/native.jpg",
+	"description": [
+		{
+			"@value": "Collection of clippings relating to aviation: a scrapbook, 1780-1850\" Series 1, 139413. Huntington Library Aeronautica Collection: Prints and Ephemera, The Huntington Library, San Marino, California.",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/4.0/",
+	"attribution": "Collection of clippings relating to aviation: a scrapbook, 1780-1850\" Series 1, 139413. Huntington Library Aeronautica Collection: Prints and Ephemera, The Huntington Library, San Marino, California.",
+	"sequences": [
+		{
+			"@id": "http://39402dc0-1bae-489a-af13-6249f653f94b",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://05b83571-a010-42ed-97b4-81e8f73949a2",
+					"@type": "sc:Canvas",
+					"label": "de Rozier’s Disaster and a Piece of his Balloon (15r)\n",
+					"height": 4800,
+					"width": 3653,
+                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster/full/228,/0/native.jpg",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e97a48a6-aef7-463a-b33c-472c08166f44",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
+									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster",
+									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
+								},
+								"height": 4800,
+								"width": 3653
+							},
+							"on": "http://05b83571-a010-42ed-97b4-81e8f73949a2"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
