@@ -3,7 +3,7 @@
 	"@id": "http://a6d75889-aded-48c1-96eb-884f411021bf",
 	"@type": "sc:Manifest",
 	"label": "de Rozier’s Disaster and a Piece of his Balloon (139413, 15r)",
-    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster/full/228,/0/native.jpg",
+    "thumbnail": "https://ericayhayes.github.io/SSB/deRozierDisaster/full/228,/0/native.jpg",
 	"description": [
 		{
 			"@value": "Collection of clippings relating to aviation: a scrapbook, 1780-1850\" Series 1, 139413. Huntington Library Aeronautica Collection: Prints and Ephemera, The Huntington Library, San Marino, California.",
@@ -29,7 +29,7 @@
 					"label": "de Rozier’s Disaster and a Piece of his Balloon (15r)\n",
 					"height": 4800,
 					"width": 3653,
-                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster/full/228,/0/native.jpg",
+                    "thumbnail": "https://ericayhayes.github.io/SSB/deRozierDisaster/full/228,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -37,12 +37,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster/full/full/0/default.jpg",
+								"@id": "https://ericayhayes.github.io/SSB/deRozierDisaster/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/deRozierDisaster",
+									"@id": "https://ericayhayes.github.io/SSB/deRozierDisaster",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 4800,
