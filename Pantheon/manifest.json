@@ -3,7 +3,7 @@
 	"@id": "http://fa5ff49c-6020-4d7e-8123-dd670aa3650e",
 	"@type": "sc:Manifest",
 	"label": "Mr. Lunardi’s Balloon at the Pantheon: Textual and Visual Description (BL L.R.301. H.3, 022r)",
-    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/Pantheon/full/469,/0/native.jpg",
+    "thumbnail": "https://ericayhayes.github.io/SSB/Pantheon/full/469,/0/native.jpg",
 	"description": [
 		{
 			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed by Miss S.S. Banks. Bound in nine volumes]  Sarah Sophia Banks 1744-1818.",
@@ -29,7 +29,7 @@
 					"label": "Mr. Lunardi’s Balloon at the Pantheon: Textual and Visual Description (BL L.R.301. H.3, 022r)\n",
 					"height": 6425,
 					"width": 7498,
-                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/Pantheon/full/469,/0/native.jpg",
+                    "thumbnail": "https://ericayhayes.github.io/SSB/Pantheon/full/469,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -37,12 +37,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Pantheon/full/full/0/default.jpg",
+								"@id": "https://ericayhayes.github.io/SSB/Pantheon/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Pantheon",
+									"@id": "https://ericayhayes.github.io/SSB/Pantheon",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 6425,

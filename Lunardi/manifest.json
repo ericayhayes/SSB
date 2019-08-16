@@ -3,7 +3,7 @@
 	"@id": "http://296aafff-44af-487d-9506-dc6cadbc4ec5",
 	"@type": "sc:Manifest",
 	"label": "Lunardi on the Thames (BL L.R.301. H.3, 036r)",
-    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi/full/225,/0/native.jpg",
+    "thumbnail": "https://ericayhayes.github.io/SSB/Lunardi/full/225,/0/native.jpg",
 	"description": [
 		{
 			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed\nby Miss S.S. Banks. Bound in nine volumes] / Sarah Sophia Banks 1744-1818.",
@@ -29,7 +29,7 @@
 					"label": "Lunardi on the Thames (BL L.R.301. H.3, 036r)",
 					"height": 6246,
 					"width": 7213,
-                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi/full/225,/0/native.jpg",
+                    "thumbnail": "https://ericayhayes.github.io/SSB/Lunardi/full/225,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -37,12 +37,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi/full/full/0/default.jpg",
+								"@id": "https://ericayhayes.github.io/SSB/Lunardi/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/Lunardi",
+									"@id": "https://ericayhayes.github.io/SSB/Lunardi",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 6246,

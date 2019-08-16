@@ -3,7 +3,7 @@
 	"@id": "http://b264fdda-c5df-4d19-b9e8-5cafd7ab7a92",
 	"@type": "sc:Manifest",
 	"label": "Lunardi’s Downfall and “Grand Triumphal Entry” (BL L.R.301. h.3 , 035r)",
-    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall/full/393,/0/native.jpg",
+    "thumbnail": "https://ericayhayes.github.io/SSB/LunardiDownfall/full/393,/0/native.jpg",
 	"description": [
 		{
 			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed by Miss S.S. Banks. Bound in nine volumes] Sarah Sophia Banks 1744-1818.",
@@ -29,7 +29,7 @@
 					"label": "Lunardi’s Downfall and “Grand Triumphal Entry” (BL L.R.301. h.3 , 035r)",
 					"height": 7290,
 					"width": 6293,
-                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall/full/393,/0/native.jpg",
+                    "thumbnail": "https://ericayhayes.github.io/SSB/LunardiDownfall/full/393,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -37,12 +37,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall/full/full/0/default.jpg",
+								"@id": "https://ericayhayes.github.io/SSB/LunardiDownfall/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LunardiDownfall",
+									"@id": "https://ericayhayes.github.io/SSB/LunardiDownfall",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 7290,
