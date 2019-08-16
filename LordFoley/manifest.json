@@ -3,7 +3,7 @@
 	"@id": "http://fcf85589-4a4f-4147-a756-f98c1384f041",
 	"@type": "sc:Manifest",
 	"label": "All on Fire or the Doctors disappointed, A View taken from Lord Foley’s Garden (BL L.R.301. H.3, 037r)\n",
-    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley/full/376,/0/native.jpg",
+    "thumbnail": "https://ericayhayes.github.io/SSB/LordFoley/full/376,/0/native.jpg",
 	"description": [
 		{
 			"@value": "[ A collection of broadsides, cuttings from newspapers: engravings, etc. of various dates, formed by Miss S.S. Banks. Bound in nine volumes] Sarah Sophia Banks 1744-1818.",
@@ -29,7 +29,7 @@
 					"label": "All on Fire or the Doctors disappointed, A View taken from Lord Foley’s Garden (BL L.R.301. H.3, 037r)\n",
 					"height": 7218,
 					"width": 6008,
-                    "thumbnail": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley/full/376,/0/native.jpg",
+                    "thumbnail": "https://ericayhayes.github.io/SSB/LordFoley/full/376,/0/native.jpg",
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
@@ -37,12 +37,12 @@
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
-								"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley/full/full/0/default.jpg",
+								"@id": "https://ericayhayes.github.io/SSB/LordFoley/full/full/0/default.jpg",
 								"@type": "dctypes:Image",
 								"format": "image/jpeg",
 								"service": {
 									"@context": "http://library.stanford.edu/iiif/image-api/1.1/context.json",
-									"@id": "https://s3.amazonaws.com/ssbiiif/demo-static/LordFoley",
+									"@id": "https://ericayhayes.github.io/SSB/LordFoley",
 									"profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level0"
 								},
 								"height": 7218,
